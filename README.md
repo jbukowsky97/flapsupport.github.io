@@ -34,7 +34,7 @@ Use the form below to request account deletion. Your account, game history, and 
 
 ## Privacy Policy
 
-[Privacy Policy](YOUR_PRIVACY_POLICY_URL)
+[Privacy Policy](https://jbukowsky97.github.io/flapprivacypolicy.github.io/)
 
 ---
 
